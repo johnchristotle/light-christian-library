@@ -1,5 +1,4 @@
-# Getting Started with Create React App
-Light Christian Library:
+# Light Christian Library App
 Built with React, JavaScript, Material UI, Node.js and MySQL
 It's simply a unique search bar that filters through data. 
 
