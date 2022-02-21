@@ -1,6 +1,12 @@
 # Getting Started with Create React App
+Light Christian Library:
+Built with React, JavaScript, Material UI, Node.js and MySQL
+It's simply a unique search bar that filters through data. 
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project was bootstrapped with [Create React App]
+to begin, please check the package.json file to see
+the dependansies needed to be install in order to 
+run this app successfully.
 
 ## Available Scripts
 
@@ -8,11 +14,20 @@ In the project directory, you can run:
 
 ### `npm start`
 
+Clone the project locally, change into the directory, and install the dependencies: 
+git clone https://github.com/johnchristotle/light-christian-library/
+cd light-christian-library
+Install dependancies
+npm start
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+### `Run on Gitpod`
+
+To deploy this project to Gitpod, follow these steps:
+
+Click this link to deploy https://gitpod.io/#github.com/johnchristotle/light-christian-library
+
 
 ### `npm test`
 
